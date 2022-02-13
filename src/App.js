@@ -1,4 +1,5 @@
 import React from "react";
+import Headlines from "./components/Headlines";
 
 
 function App() {
